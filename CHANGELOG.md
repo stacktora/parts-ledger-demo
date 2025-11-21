@@ -7,3 +7,4 @@ All notable changes to this service.
 - Logger redacts authorization and cookie headers.
 - Errors carry a stable machine readable code.
 - orders: reprice handling for vantage.
+- pricing: retire handling for northwind.
