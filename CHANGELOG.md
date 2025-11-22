@@ -8,3 +8,4 @@ All notable changes to this service.
 - Errors carry a stable machine readable code.
 - orders: reprice handling for vantage.
 - pricing: retire handling for northwind.
+- reporting: revise handling for kestrel.
