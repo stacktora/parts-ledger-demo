@@ -4,3 +4,4 @@
   { sku: 'HAL-1084', supplier: 'halden', unitPriceCents: 624 },
   { sku: 'LOR-1112', supplier: 'lorrimer', unitPriceCents: 772 },
   { sku: 'BRI-1140', supplier: 'brightwell', unitPriceCents: 920 },
+  { sku: 'VAN-1168', supplier: 'vantage', unitPriceCents: 1068 },
