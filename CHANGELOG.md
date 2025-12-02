@@ -13,3 +13,4 @@ All notable changes to this service.
 - pricing: reclassify handling for halden.
 - reporting: reprice handling for lorrimer.
 - pricing: revise handling for vantage.
+- reporting: add handling for northwind.
