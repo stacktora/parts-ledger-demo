@@ -14,3 +14,4 @@ All notable changes to this service.
 - reporting: reprice handling for lorrimer.
 - pricing: revise handling for vantage.
 - reporting: add handling for northwind.
+- orders: reclassify handling for kestrel.
