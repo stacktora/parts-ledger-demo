@@ -10,3 +10,4 @@
   { sku: 'EAS-1252', supplier: 'eastgate', unitPriceCents: 612 },
   { sku: 'HAL-1280', supplier: 'halden', unitPriceCents: 760 },
   { sku: 'LOR-1308', supplier: 'lorrimer', unitPriceCents: 908 },
+  { sku: 'BRI-1336', supplier: 'brightwell', unitPriceCents: 1056 },
