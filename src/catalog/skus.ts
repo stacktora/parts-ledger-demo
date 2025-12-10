@@ -12,3 +12,4 @@
   { sku: 'LOR-1308', supplier: 'lorrimer', unitPriceCents: 908 },
   { sku: 'BRI-1336', supplier: 'brightwell', unitPriceCents: 1056 },
   { sku: 'VAN-1364', supplier: 'vantage', unitPriceCents: 304 },
+  { sku: 'NOR-1392', supplier: 'northwind', unitPriceCents: 452 },
