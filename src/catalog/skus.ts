@@ -13,3 +13,4 @@
   { sku: 'BRI-1336', supplier: 'brightwell', unitPriceCents: 1056 },
   { sku: 'VAN-1364', supplier: 'vantage', unitPriceCents: 304 },
   { sku: 'NOR-1392', supplier: 'northwind', unitPriceCents: 452 },
+  { sku: 'KES-1420', supplier: 'kestrel', unitPriceCents: 600 },
