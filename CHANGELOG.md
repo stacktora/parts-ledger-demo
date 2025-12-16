@@ -21,3 +21,4 @@ All notable changes to this service.
 - pricing: add handling for brightwell.
 - reporting: reclassify handling for vantage.
 - pricing: retire handling for kestrel.
+- reporting: revise handling for eastgate.
