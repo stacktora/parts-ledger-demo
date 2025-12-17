@@ -16,3 +16,4 @@
   { sku: 'KES-1420', supplier: 'kestrel', unitPriceCents: 600 },
   { sku: 'EAS-1448', supplier: 'eastgate', unitPriceCents: 748 },
   { sku: 'HAL-1476', supplier: 'halden', unitPriceCents: 896 },
+  { sku: 'LOR-1504', supplier: 'lorrimer', unitPriceCents: 1044 },
