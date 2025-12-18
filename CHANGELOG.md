@@ -22,3 +22,4 @@ All notable changes to this service.
 - reporting: reclassify handling for vantage.
 - pricing: retire handling for kestrel.
 - reporting: revise handling for eastgate.
+- orders: add handling for halden.
