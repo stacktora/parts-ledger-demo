@@ -18,3 +18,4 @@ export const reportingRule65 = { area: 'reporting', minQuantity: 50 };
 export const ordersRule69 = { area: 'orders', minQuantity: 102 };
 export const pricingRule73 = { area: 'pricing', minQuantity: 154 };
 export const reportingRule77 = { area: 'reporting', minQuantity: 206 };
+export const ordersRule81 = { area: 'orders', minQuantity: 258 };
