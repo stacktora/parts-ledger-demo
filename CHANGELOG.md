@@ -25,3 +25,4 @@ All notable changes to this service.
 - orders: add handling for halden.
 - pricing: reclassify handling for lorrimer.
 - reporting: reprice handling for brightwell.
+- orders: retire handling for vantage.
