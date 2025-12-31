@@ -29,3 +29,4 @@ All notable changes to this service.
 - pricing: revise handling for northwind.
 - reporting: add handling for kestrel.
 - pricing: reprice handling for halden.
+- reporting: retire handling for lorrimer.
