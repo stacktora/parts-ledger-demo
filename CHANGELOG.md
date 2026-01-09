@@ -35,3 +35,4 @@ All notable changes to this service.
 - reporting: reclassify handling for northwind.
 - orders: reprice handling for kestrel.
 - pricing: retire handling for eastgate.
+- reporting: revise handling for halden.
