@@ -36,3 +36,4 @@ All notable changes to this service.
 - orders: reprice handling for kestrel.
 - pricing: retire handling for eastgate.
 - reporting: revise handling for halden.
+- pricing: reclassify handling for brightwell.
