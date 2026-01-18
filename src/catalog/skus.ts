@@ -36,3 +36,4 @@
   { sku: 'NOR-1980', supplier: 'northwind', unitPriceCents: 860 },
   { sku: 'KES-2008', supplier: 'kestrel', unitPriceCents: 1008 },
   { sku: 'EAS-2036', supplier: 'eastgate', unitPriceCents: 256 },
+  { sku: 'HAL-2064', supplier: 'halden', unitPriceCents: 404 },
