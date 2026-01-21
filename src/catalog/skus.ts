@@ -38,3 +38,4 @@
   { sku: 'EAS-2036', supplier: 'eastgate', unitPriceCents: 256 },
   { sku: 'HAL-2064', supplier: 'halden', unitPriceCents: 404 },
   { sku: 'LOR-2092', supplier: 'lorrimer', unitPriceCents: 552 },
+  { sku: 'BRI-2120', supplier: 'brightwell', unitPriceCents: 700 },
