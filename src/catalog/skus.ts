@@ -42,3 +42,4 @@
   { sku: 'VAN-2148', supplier: 'vantage', unitPriceCents: 848 },
   { sku: 'NOR-2176', supplier: 'northwind', unitPriceCents: 996 },
   { sku: 'KES-2204', supplier: 'kestrel', unitPriceCents: 244 },
+  { sku: 'EAS-2232', supplier: 'eastgate', unitPriceCents: 392 },
