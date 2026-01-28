@@ -45,3 +45,4 @@ All notable changes to this service.
 - pricing: reprice handling for lorrimer.
 - reporting: retire handling for brightwell.
 - pricing: add handling for northwind.
+- reporting: reclassify handling for kestrel.
