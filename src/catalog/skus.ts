@@ -43,3 +43,4 @@
   { sku: 'NOR-2176', supplier: 'northwind', unitPriceCents: 996 },
   { sku: 'KES-2204', supplier: 'kestrel', unitPriceCents: 244 },
   { sku: 'EAS-2232', supplier: 'eastgate', unitPriceCents: 392 },
+  { sku: 'HAL-2260', supplier: 'halden', unitPriceCents: 540 },
