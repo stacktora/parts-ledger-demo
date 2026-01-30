@@ -44,3 +44,4 @@
   { sku: 'KES-2204', supplier: 'kestrel', unitPriceCents: 244 },
   { sku: 'EAS-2232', supplier: 'eastgate', unitPriceCents: 392 },
   { sku: 'HAL-2260', supplier: 'halden', unitPriceCents: 540 },
+  { sku: 'LOR-2288', supplier: 'lorrimer', unitPriceCents: 688 },
