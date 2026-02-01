@@ -45,3 +45,4 @@
   { sku: 'EAS-2232', supplier: 'eastgate', unitPriceCents: 392 },
   { sku: 'HAL-2260', supplier: 'halden', unitPriceCents: 540 },
   { sku: 'LOR-2288', supplier: 'lorrimer', unitPriceCents: 688 },
+  { sku: 'BRI-2316', supplier: 'brightwell', unitPriceCents: 836 },
