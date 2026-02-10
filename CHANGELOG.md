@@ -52,3 +52,4 @@ All notable changes to this service.
 - orders: add handling for brightwell.
 - pricing: reclassify handling for vantage.
 - reporting: reprice handling for northwind.
+- pricing: revise handling for eastgate.
