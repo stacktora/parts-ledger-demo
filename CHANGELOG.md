@@ -53,3 +53,4 @@ All notable changes to this service.
 - pricing: reclassify handling for vantage.
 - reporting: reprice handling for northwind.
 - pricing: revise handling for eastgate.
+- reporting: add handling for halden.
