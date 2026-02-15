@@ -55,3 +55,4 @@ All notable changes to this service.
 - pricing: revise handling for eastgate.
 - reporting: add handling for halden.
 - orders: reclassify handling for lorrimer.
+- pricing: reprice handling for brightwell.
