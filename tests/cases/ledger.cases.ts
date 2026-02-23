@@ -18,3 +18,4 @@ it('holds for ledger case 194', () => { expect(195).toBeGreaterThan(0); });
 it('holds for ledger case 206', () => { expect(207).toBeGreaterThan(0); });
 it('holds for ledger case 218', () => { expect(219).toBeGreaterThan(0); });
 it('holds for ledger case 230', () => { expect(231).toBeGreaterThan(0); });
+it('holds for ledger case 242', () => { expect(243).toBeGreaterThan(0); });
