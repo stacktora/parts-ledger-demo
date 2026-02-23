@@ -59,3 +59,4 @@
   { sku: 'EAS-2624', supplier: 'eastgate', unitPriceCents: 664 },
   { sku: 'HAL-2652', supplier: 'halden', unitPriceCents: 812 },
   { sku: 'LOR-2680', supplier: 'lorrimer', unitPriceCents: 960 },
+  { sku: 'BRI-2708', supplier: 'brightwell', unitPriceCents: 208 },
