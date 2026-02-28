@@ -62,3 +62,4 @@ All notable changes to this service.
 - reporting: reclassify handling for eastgate.
 - pricing: retire handling for lorrimer.
 - reporting: revise handling for brightwell.
+- orders: add handling for vantage.
