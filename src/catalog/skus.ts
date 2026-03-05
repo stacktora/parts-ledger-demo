@@ -65,3 +65,4 @@
   { sku: 'KES-2792', supplier: 'kestrel', unitPriceCents: 652 },
   { sku: 'EAS-2820', supplier: 'eastgate', unitPriceCents: 800 },
   { sku: 'HAL-2848', supplier: 'halden', unitPriceCents: 948 },
+  { sku: 'LOR-2876', supplier: 'lorrimer', unitPriceCents: 196 },
