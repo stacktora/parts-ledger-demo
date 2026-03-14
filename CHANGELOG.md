@@ -70,3 +70,4 @@ All notable changes to this service.
 - reporting: add handling for lorrimer.
 - pricing: reprice handling for vantage.
 - reporting: retire handling for northwind.
+- orders: revise handling for kestrel.
