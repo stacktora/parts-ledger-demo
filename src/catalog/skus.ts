@@ -71,3 +71,4 @@
   { sku: 'NOR-2960', supplier: 'northwind', unitPriceCents: 640 },
   { sku: 'KES-2988', supplier: 'kestrel', unitPriceCents: 788 },
   { sku: 'EAS-3016', supplier: 'eastgate', unitPriceCents: 936 },
+  { sku: 'HAL-3044', supplier: 'halden', unitPriceCents: 184 },
