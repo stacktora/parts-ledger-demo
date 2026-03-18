@@ -73,3 +73,4 @@
   { sku: 'EAS-3016', supplier: 'eastgate', unitPriceCents: 936 },
   { sku: 'HAL-3044', supplier: 'halden', unitPriceCents: 184 },
   { sku: 'LOR-3072', supplier: 'lorrimer', unitPriceCents: 332 },
+  { sku: 'BRI-3100', supplier: 'brightwell', unitPriceCents: 480 },
