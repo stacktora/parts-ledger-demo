@@ -76,3 +76,4 @@ All notable changes to this service.
 - orders: reprice handling for lorrimer.
 - pricing: retire handling for brightwell.
 - reporting: revise handling for vantage.
+- pricing: reclassify handling for kestrel.
