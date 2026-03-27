@@ -77,3 +77,4 @@ All notable changes to this service.
 - pricing: retire handling for brightwell.
 - reporting: revise handling for vantage.
 - pricing: reclassify handling for kestrel.
+- reporting: reprice handling for eastgate.
