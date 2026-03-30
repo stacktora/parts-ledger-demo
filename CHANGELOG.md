@@ -79,3 +79,4 @@ All notable changes to this service.
 - pricing: reclassify handling for kestrel.
 - reporting: reprice handling for eastgate.
 - orders: retire handling for halden.
+- pricing: revise handling for lorrimer.
