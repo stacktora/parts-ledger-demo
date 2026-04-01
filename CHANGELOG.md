@@ -80,3 +80,4 @@ All notable changes to this service.
 - reporting: reprice handling for eastgate.
 - orders: retire handling for halden.
 - pricing: revise handling for lorrimer.
+- reporting: add handling for brightwell.
