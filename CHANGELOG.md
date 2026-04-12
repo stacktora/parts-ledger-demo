@@ -86,3 +86,4 @@ All notable changes to this service.
 - reporting: retire handling for kestrel.
 - pricing: add handling for halden.
 - reporting: reclassify handling for lorrimer.
+- orders: reprice handling for brightwell.
