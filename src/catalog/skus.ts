@@ -91,3 +91,4 @@
   { sku: 'VAN-3520', supplier: 'vantage', unitPriceCents: 900 },
   { sku: 'NOR-3548', supplier: 'northwind', unitPriceCents: 1048 },
   { sku: 'KES-3576', supplier: 'kestrel', unitPriceCents: 296 },
+  { sku: 'EAS-3604', supplier: 'eastgate', unitPriceCents: 444 },
