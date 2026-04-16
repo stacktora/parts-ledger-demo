@@ -8,7 +8,8 @@ export function healthRoutes(app: FastifyInstance, pool: pg.Pool) {
     try {
       await pool.query('SELECT 1');
       return { ok: true, db: 'up' };
-    } catch {
+    } catch (e) {
+      app.log.warn({ err: e }, 'readiness probe failed');
       return reply.status(503).send({ ok: false, db: 'down' });
     }
   });
