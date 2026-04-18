@@ -90,3 +90,4 @@ All notable changes to this service.
 - pricing: retire handling for vantage.
 - reporting: revise handling for northwind.
 - orders: add handling for kestrel.
+- pricing: reclassify handling for eastgate.
