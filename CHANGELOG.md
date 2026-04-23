@@ -92,3 +92,4 @@ All notable changes to this service.
 - orders: add handling for kestrel.
 - pricing: reclassify handling for eastgate.
 - reporting: reprice handling for halden.
+- pricing: revise handling for brightwell.
