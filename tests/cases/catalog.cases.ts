@@ -31,3 +31,4 @@ it('holds for catalog case 354', () => { expect(355).toBeGreaterThan(0); });
 it('holds for catalog case 366', () => { expect(367).toBeGreaterThan(0); });
 it('holds for catalog case 378', () => { expect(379).toBeGreaterThan(0); });
 it('holds for catalog case 390', () => { expect(391).toBeGreaterThan(0); });
+it('holds for catalog case 402', () => { expect(403).toBeGreaterThan(0); });
