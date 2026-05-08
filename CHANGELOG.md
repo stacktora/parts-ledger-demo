@@ -100,3 +100,4 @@ All notable changes to this service.
 - orders: revise handling for halden.
 - pricing: add handling for lorrimer.
 - reporting: reclassify handling for brightwell.
+- pricing: retire handling for northwind.
