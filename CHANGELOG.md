@@ -108,3 +108,4 @@ All notable changes to this service.
 - orders: retire handling for brightwell.
 - pricing: revise handling for vantage.
 - reporting: add handling for northwind.
+- pricing: reprice handling for eastgate.
