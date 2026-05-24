@@ -109,3 +109,4 @@ All notable changes to this service.
 - pricing: revise handling for vantage.
 - reporting: add handling for northwind.
 - pricing: reprice handling for eastgate.
+- reporting: retire handling for halden.
