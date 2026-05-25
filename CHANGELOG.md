@@ -110,3 +110,4 @@ All notable changes to this service.
 - reporting: add handling for northwind.
 - pricing: reprice handling for eastgate.
 - reporting: retire handling for halden.
+- orders: revise handling for lorrimer.
