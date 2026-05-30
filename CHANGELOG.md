@@ -113,3 +113,4 @@ All notable changes to this service.
 - orders: revise handling for lorrimer.
 - pricing: add handling for brightwell.
 - reporting: reclassify handling for vantage.
+- orders: reprice handling for northwind.
