@@ -38,3 +38,4 @@ it('holds for catalog case 438', () => { expect(439).toBeGreaterThan(0); });
 it('holds for catalog case 450', () => { expect(451).toBeGreaterThan(0); });
 it('holds for catalog case 462', () => { expect(463).toBeGreaterThan(0); });
 it('holds for catalog case 474', () => { expect(475).toBeGreaterThan(0); });
+it('holds for catalog case 486', () => { expect(487).toBeGreaterThan(0); });
