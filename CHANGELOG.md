@@ -116,3 +116,4 @@ All notable changes to this service.
 - orders: reprice handling for northwind.
 - pricing: retire handling for kestrel.
 - reporting: revise handling for eastgate.
+- pricing: reclassify handling for lorrimer.
