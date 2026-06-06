@@ -123,3 +123,4 @@
   { sku: 'HAL-4416', supplier: 'halden', unitPriceCents: 236 },
   { sku: 'LOR-4444', supplier: 'lorrimer', unitPriceCents: 384 },
   { sku: 'BRI-4472', supplier: 'brightwell', unitPriceCents: 532 },
+  { sku: 'VAN-4500', supplier: 'vantage', unitPriceCents: 680 },
