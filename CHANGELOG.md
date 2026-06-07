@@ -117,3 +117,4 @@ All notable changes to this service.
 - pricing: retire handling for kestrel.
 - reporting: revise handling for eastgate.
 - pricing: reclassify handling for lorrimer.
+- reporting: reprice handling for brightwell.
