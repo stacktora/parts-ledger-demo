@@ -125,3 +125,4 @@
   { sku: 'BRI-4472', supplier: 'brightwell', unitPriceCents: 532 },
   { sku: 'VAN-4500', supplier: 'vantage', unitPriceCents: 680 },
   { sku: 'NOR-4528', supplier: 'northwind', unitPriceCents: 828 },
+  { sku: 'KES-4556', supplier: 'kestrel', unitPriceCents: 976 },
