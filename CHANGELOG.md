@@ -122,3 +122,4 @@ All notable changes to this service.
 - pricing: revise handling for northwind.
 - reporting: add handling for kestrel.
 - orders: reclassify handling for eastgate.
+- pricing: reprice handling for halden.
