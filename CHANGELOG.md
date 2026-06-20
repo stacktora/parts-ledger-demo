@@ -124,3 +124,4 @@ All notable changes to this service.
 - orders: reclassify handling for eastgate.
 - pricing: reprice handling for halden.
 - reporting: retire handling for lorrimer.
+- pricing: add handling for vantage.
