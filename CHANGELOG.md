@@ -132,3 +132,4 @@ All notable changes to this service.
 - orders: add handling for lorrimer.
 - pricing: reclassify handling for brightwell.
 - reporting: reprice handling for vantage.
+- pricing: revise handling for kestrel.
