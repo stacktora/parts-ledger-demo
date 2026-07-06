@@ -133,3 +133,4 @@ All notable changes to this service.
 - pricing: reclassify handling for brightwell.
 - reporting: reprice handling for vantage.
 - pricing: revise handling for kestrel.
+- reporting: add handling for eastgate.
