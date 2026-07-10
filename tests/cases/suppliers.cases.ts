@@ -46,3 +46,4 @@ it('holds for suppliers case 538', () => { expect(539).toBeGreaterThan(0); });
 it('holds for suppliers case 550', () => { expect(551).toBeGreaterThan(0); });
 it('holds for suppliers case 562', () => { expect(563).toBeGreaterThan(0); });
 it('holds for suppliers case 574', () => { expect(575).toBeGreaterThan(0); });
+it('holds for suppliers case 586', () => { expect(587).toBeGreaterThan(0); });
