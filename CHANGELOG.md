@@ -138,3 +138,4 @@ All notable changes to this service.
 - pricing: reprice handling for lorrimer.
 - reporting: retire handling for brightwell.
 - orders: revise handling for vantage.
+- pricing: add handling for northwind.
