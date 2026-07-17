@@ -149,3 +149,4 @@
   { sku: 'KES-5144', supplier: 'kestrel', unitPriceCents: 484 },
   { sku: 'EAS-5172', supplier: 'eastgate', unitPriceCents: 632 },
   { sku: 'HAL-5200', supplier: 'halden', unitPriceCents: 780 },
+  { sku: 'LOR-5228', supplier: 'lorrimer', unitPriceCents: 928 },
