@@ -150,3 +150,4 @@
   { sku: 'EAS-5172', supplier: 'eastgate', unitPriceCents: 632 },
   { sku: 'HAL-5200', supplier: 'halden', unitPriceCents: 780 },
   { sku: 'LOR-5228', supplier: 'lorrimer', unitPriceCents: 928 },
+  { sku: 'BRI-5256', supplier: 'brightwell', unitPriceCents: 1076 },
