@@ -145,3 +145,4 @@ All notable changes to this service.
 - orders: add handling for brightwell.
 - pricing: reclassify handling for vantage.
 - reporting: reprice handling for northwind.
+- orders: retire handling for kestrel.
