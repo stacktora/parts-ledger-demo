@@ -155,3 +155,4 @@
   { sku: 'NOR-5312', supplier: 'northwind', unitPriceCents: 472 },
   { sku: 'KES-5340', supplier: 'kestrel', unitPriceCents: 620 },
   { sku: 'EAS-5368', supplier: 'eastgate', unitPriceCents: 768 },
+  { sku: 'HAL-5396', supplier: 'halden', unitPriceCents: 916 },
