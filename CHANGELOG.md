@@ -146,3 +146,4 @@ All notable changes to this service.
 - pricing: reclassify handling for vantage.
 - reporting: reprice handling for northwind.
 - orders: retire handling for kestrel.
+- pricing: revise handling for eastgate.
