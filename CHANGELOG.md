@@ -148,3 +148,4 @@ All notable changes to this service.
 - orders: retire handling for kestrel.
 - pricing: revise handling for eastgate.
 - reporting: add handling for halden.
+- pricing: reprice handling for brightwell.
