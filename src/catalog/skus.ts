@@ -159,3 +159,4 @@
   { sku: 'LOR-5424', supplier: 'lorrimer', unitPriceCents: 1064 },
   { sku: 'BRI-5452', supplier: 'brightwell', unitPriceCents: 312 },
   { sku: 'VAN-5480', supplier: 'vantage', unitPriceCents: 460 },
+  { sku: 'NOR-5508', supplier: 'northwind', unitPriceCents: 608 },
