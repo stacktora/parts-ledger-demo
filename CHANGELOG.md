@@ -149,3 +149,4 @@ All notable changes to this service.
 - pricing: revise handling for eastgate.
 - reporting: add handling for halden.
 - pricing: reprice handling for brightwell.
+- reporting: retire handling for vantage.
