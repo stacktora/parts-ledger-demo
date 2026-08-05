@@ -150,3 +150,4 @@ All notable changes to this service.
 - reporting: add handling for halden.
 - pricing: reprice handling for brightwell.
 - reporting: retire handling for vantage.
+- orders: revise handling for northwind.
