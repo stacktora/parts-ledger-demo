@@ -155,3 +155,4 @@ All notable changes to this service.
 - reporting: reclassify handling for eastgate.
 - orders: reprice handling for halden.
 - pricing: retire handling for lorrimer.
+- reporting: revise handling for brightwell.
