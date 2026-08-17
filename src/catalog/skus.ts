@@ -168,3 +168,4 @@
   { sku: 'VAN-5676', supplier: 'vantage', unitPriceCents: 596 },
   { sku: 'NOR-5704', supplier: 'northwind', unitPriceCents: 744 },
   { sku: 'KES-5732', supplier: 'kestrel', unitPriceCents: 892 },
+  { sku: 'EAS-5760', supplier: 'eastgate', unitPriceCents: 1040 },
