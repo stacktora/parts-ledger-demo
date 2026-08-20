@@ -158,3 +158,4 @@ All notable changes to this service.
 - reporting: revise handling for brightwell.
 - pricing: reclassify handling for northwind.
 - reporting: reprice handling for kestrel.
+- orders: retire handling for eastgate.
