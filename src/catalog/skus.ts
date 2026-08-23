@@ -172,3 +172,4 @@
   { sku: 'HAL-5788', supplier: 'halden', unitPriceCents: 288 },
   { sku: 'LOR-5816', supplier: 'lorrimer', unitPriceCents: 436 },
   { sku: 'BRI-5844', supplier: 'brightwell', unitPriceCents: 584 },
+  { sku: 'VAN-5872', supplier: 'vantage', unitPriceCents: 732 },
